@@ -1,24 +1,28 @@
-# README
+# Meshiterro
+## 概要
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+アプリケーションを完成させよう2でユーザ認証機能を持った架空のSNSサイトを作成しました。
 
-Things you may want to cover:
+## 機能一覧
 
-* Ruby version
+投稿の一覧表示
 
-* System dependencies
+投稿の詳細表示
 
-* Configuration
+投稿の削除機能
 
-* Database creation
+投稿のコメント機能
 
-* Database initialization
+投稿のいいね機能
 
-* How to run the test suite
+ユーザ登録機能
 
-* Services (job queues, cache servers, search engines, etc.)
+ログイン機能
 
-* Deployment instructions
+マイページ(ユーザの詳細表示)
 
-* ...
+プロフィール編集機能
+
+
+
+
